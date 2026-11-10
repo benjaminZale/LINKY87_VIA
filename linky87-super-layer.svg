@@ -16,21 +16,21 @@
 
   <!-- Function row: 16 keys -->
   <g class="key" transform="translate(24 38)"><rect width="48" height="42"/><text class="base" x="24" y="19">Esc</text><text class="fn" x="24" y="33">Sleep</text></g>
-  <g class="key" transform="translate(86 38)"><rect width="48" height="42"/><text class="base" x="24" y="26">F1</text></g>
-  <g class="key" transform="translate(140 38)"><rect width="48" height="42"/><text class="base" x="24" y="26">F2</text></g>
-  <g class="key" transform="translate(194 38)"><rect width="48" height="42"/><text class="base" x="24" y="26">F3</text></g>
-  <g class="key" transform="translate(248 38)"><rect width="48" height="42"/><text class="base" x="24" y="26">F4</text></g>
-  <g class="key" transform="translate(316 38)"><rect width="48" height="42"/><text class="base" x="24" y="26">F5</text></g>
-  <g class="key" transform="translate(370 38)"><rect width="48" height="42"/><text class="base" x="24" y="26">F6</text></g>
-  <g class="key" transform="translate(424 38)"><rect width="48" height="42"/><text class="base" x="24" y="26">F7</text></g>
-  <g class="key" transform="translate(478 38)"><rect width="48" height="42"/><text class="base" x="24" y="26">F8</text></g>
-  <g class="key" transform="translate(546 38)"><rect width="48" height="42"/><text class="base" x="24" y="26">F9</text></g>
-  <g class="key" transform="translate(600 38)"><rect width="48" height="42"/><text class="base" x="24" y="26">F10</text></g>
-  <g class="key" transform="translate(654 38)"><rect width="48" height="42"/><text class="base" x="24" y="26">F11</text></g>
-  <g class="key" transform="translate(708 38)"><rect width="48" height="42"/><text class="base" x="24" y="26">F12</text></g>
-  <g class="key" transform="translate(782 38)"><rect width="48" height="42"/><text class="base" x="24" y="26">PrtSc</text></g>
-  <g class="key" transform="translate(836 38)"><rect width="48" height="42"/><text class="base" x="24" y="26">ScrLk</text></g>
-  <g class="key" transform="translate(890 38)"><rect width="48" height="42"/><text class="base" x="24" y="19">Pause</text><text class="fn" x="24" y="33">Battery</text></g>
+  <g class="key" transform="translate(132 38)"><rect width="48" height="42"/><text class="base" x="24" y="26">F1</text></g>
+  <g class="key" transform="translate(186 38)"><rect width="48" height="42"/><text class="base" x="24" y="26">F2</text></g>
+  <g class="key" transform="translate(240 38)"><rect width="48" height="42"/><text class="base" x="24" y="26">F3</text></g>
+  <g class="key" transform="translate(294 38)"><rect width="48" height="42"/><text class="base" x="24" y="26">F4</text></g>
+  <g class="key" transform="translate(372 38)"><rect width="48" height="42"/><text class="base" x="24" y="26">F5</text></g>
+  <g class="key" transform="translate(424 38)"><rect width="48" height="42"/><text class="base" x="24" y="26">F6</text></g>
+  <g class="key" transform="translate(476 38)"><rect width="48" height="42"/><text class="base" x="24" y="26">F7</text></g>
+  <g class="key" transform="translate(530 38)"><rect width="48" height="42"/><text class="base" x="24" y="26">F8</text></g>
+  <g class="key" transform="translate(618 38)"><rect width="48" height="42"/><text class="base" x="24" y="26">F9</text></g>
+  <g class="key" transform="translate(672 38)"><rect width="48" height="42"/><text class="base" x="24" y="26">F10</text></g>
+  <g class="key" transform="translate(726 38)"><rect width="48" height="42"/><text class="base" x="24" y="26">F11</text></g>
+  <g class="key" transform="translate(778 38)"><rect width="48" height="42"/><text class="base" x="24" y="26">F12</text></g>
+  <g class="key" transform="translate(842 38)"><rect width="48" height="42"/><text class="base" x="24" y="26">PrtSc</text></g>
+  <g class="key" transform="translate(896 38)"><rect width="48" height="42"/><text class="base" x="24" y="26">ScrLk</text></g>
+  <g class="key" transform="translate(950 38)"><rect width="48" height="42"/><text class="base" x="24" y="19">Pause</text><text class="fn" x="24" y="33">Battery</text></g>
 
   <!-- Number row: 17 keys -->
   <g class="key" transform="translate(24 91)"><rect width="48" height="42"/><text class="base" x="24" y="19">`</text><text class="fn" x="24" y="33">My Computer</text></g>
@@ -46,10 +46,10 @@
   <g class="key" transform="translate(564 91)"><rect width="48" height="42"/><text class="base" x="24" y="26">0</text></g>
   <g class="key" transform="translate(618 91)"><rect width="48" height="42"/><text class="base" x="24" y="26">-</text></g>
   <g class="key" transform="translate(672 91)"><rect width="48" height="42"/><text class="base" x="24" y="26">=</text></g>
-  <g class="key wide" transform="translate(726 91)"><rect width="78" height="42"/><text class="base" x="39" y="26">Backspace</text></g>
-  <g class="key" transform="translate(832 91)"><rect width="48" height="42"/><text class="base" x="24" y="26">Ins</text></g>
-  <g class="key" transform="translate(886 91)"><rect width="48" height="42"/><text class="base" x="24" y="18">Home</text><text class="fn" x="24" y="33">Play/Pause</text></g>
-  <g class="key" transform="translate(940 91)"><rect width="48" height="42"/><text class="base" x="24" y="18">PgUp</text><text class="fn" x="24" y="33">Rewind</text></g>
+  <g class="key wide" transform="translate(726 91)"><rect width="96" height="42"/><text class="base" x="39" y="26">Backspace</text></g>
+  <g class="key" transform="translate(842 91)"><rect width="48" height="42"/><text class="base" x="24" y="26">Ins</text></g>
+  <g class="key" transform="translate(896 91)"><rect width="48" height="42"/><text class="base" x="24" y="18">Home</text><text class="fn" x="24" y="33">Play/Pause</text></g>
+  <g class="key" transform="translate(950 91)"><rect width="48" height="42"/><text class="base" x="24" y="18">PgUp</text><text class="fn" x="24" y="33">Rewind</text></g>
 
   <!-- Q row: 17 keys -->
   <g class="key wide" transform="translate(24 144)"><rect width="72" height="42"/><text class="base" x="36" y="26">Tab</text></g>
@@ -65,53 +65,53 @@
   <g class="key" transform="translate(588 144)"><rect width="48" height="42"/><text class="base" x="24" y="26">P</text></g>
   <g class="key" transform="translate(642 144)"><rect width="48" height="42"/><text class="base" x="24" y="26">[</text></g>
   <g class="key" transform="translate(696 144)"><rect width="48" height="42"/><text class="base" x="24" y="26">]</text></g>
-  <g class="key" transform="translate(750 144)"><rect width="48" height="42"/><text class="base" x="24" y="26">\</text></g>
-  <g class="key" transform="translate(832 144)"><rect width="48" height="42"/><text class="base" x="24" y="18">Del</text><text class="fn" x="24" y="33">Menu</text></g>
-  <g class="key" transform="translate(886 144)"><rect width="48" height="42"/><text class="base" x="24" y="18">End</text><text class="fn" x="24" y="33">Stop</text></g>
-  <g class="key" transform="translate(940 144)"><rect width="48" height="42"/><text class="base" x="24" y="18">PgDn</text><text class="fn" x="24" y="33">F-Fwd</text></g>
+  <g class="key" transform="translate(750 144)"><rect width="72" height="42"/><text class="base" x="24" y="26">\</text></g>
+  <g class="key" transform="translate(842 144)"><rect width="48" height="42"/><text class="base" x="24" y="18">Del</text><text class="fn" x="24" y="33">Menu</text></g>
+  <g class="key" transform="translate(896 144)"><rect width="48" height="42"/><text class="base" x="24" y="18">End</text><text class="fn" x="24" y="33">Stop</text></g>
+  <g class="key" transform="translate(950 144)"><rect width="48" height="42"/><text class="base" x="24" y="18">PgDn</text><text class="fn" x="24" y="33">F-Fwd</text></g>
 
   <!-- Home row: 13 keys with a horizontal ANSI Enter -->
-  <g class="key wide" transform="translate(24 197)"><rect width="80" height="42"/><text class="base" x="40" y="26">Caps</text><text class="fn" x="40" y="37">Favorites</text></g>
-  <g class="key" transform="translate(110 197)"><rect width="48" height="42"/><text class="base" x="24" y="26">A</text><text class="fn" x="24" y="37">Mouse Left</text></g>
-  <g class="key" transform="translate(164 197)"><rect width="48" height="42"/><text class="base" x="24" y="26">S</text><text class="fn" x="24" y="37">Mouse Down</text></g>
-  <g class="key" transform="translate(218 197)"><rect width="48" height="42"/><text class="base" x="24" y="26">D</text><text class="fn" x="24" y="37">Mouse Right</text></g>
-  <g class="key" transform="translate(272 197)"><rect width="48" height="42"/><text class="base" x="24" y="26">F</text></g>
-  <g class="key" transform="translate(326 197)"><rect width="48" height="42"/><text class="base" x="24" y="26">G</text></g>
-  <g class="key" transform="translate(380 197)"><rect width="48" height="42"/><text class="base" x="24" y="26">H</text></g>
-  <g class="key" transform="translate(434 197)"><rect width="48" height="42"/><text class="base" x="24" y="26">J</text></g>
-  <g class="key" transform="translate(488 197)"><rect width="48" height="42"/><text class="base" x="24" y="26">K</text></g>
-  <g class="key" transform="translate(542 197)"><rect width="48" height="42"/><text class="base" x="24" y="26">L</text></g>
-  <g class="key" transform="translate(596 197)"><rect width="48" height="42"/><text class="base" x="24" y="26">;</text></g>
-  <g class="key" transform="translate(650 197)"><rect width="48" height="42"/><text class="base" x="24" y="26">'</text></g>
-  <g class="key wide" transform="translate(704 197)"><rect width="88" height="42"/><text class="base" x="44" y="26">Enter</text></g>
+  <g class="key wide" transform="translate(24 197)"><rect width="90" height="42"/><text class="base" x="45" y="26">Caps Lock</text><text class="fn" x="45" y="37">Favorites</text></g>
+  <g class="key" transform="translate(120 197)"><rect width="48" height="42"/><text class="base" x="24" y="26">A</text><text class="fn" x="24" y="37">Mouse Left</text></g>
+  <g class="key" transform="translate(174 197)"><rect width="48" height="42"/><text class="base" x="24" y="26">S</text><text class="fn" x="24" y="37">Mouse Down</text></g>
+  <g class="key" transform="translate(228 197)"><rect width="48" height="42"/><text class="base" x="24" y="26">D</text><text class="fn" x="24" y="37">Mouse Right</text></g>
+  <g class="key" transform="translate(282 197)"><rect width="48" height="42"/><text class="base" x="24" y="26">F</text></g>
+  <g class="key" transform="translate(336 197)"><rect width="48" height="42"/><text class="base" x="24" y="26">G</text></g>
+  <g class="key" transform="translate(390 197)"><rect width="48" height="42"/><text class="base" x="24" y="26">H</text></g>
+  <g class="key" transform="translate(444 197)"><rect width="48" height="42"/><text class="base" x="24" y="26">J</text></g>
+  <g class="key" transform="translate(498 197)"><rect width="48" height="42"/><text class="base" x="24" y="26">K</text></g>
+  <g class="key" transform="translate(552 197)"><rect width="48" height="42"/><text class="base" x="24" y="26">L</text></g>
+  <g class="key" transform="translate(606 197)"><rect width="48" height="42"/><text class="base" x="24" y="26">;</text></g>
+  <g class="key" transform="translate(660 197)"><rect width="48" height="42"/><text class="base" x="24" y="26">'</text></g>
+  <g class="key wide" transform="translate(714 197)"><rect width="108" height="42"/><text class="base" x="44" y="26">Enter</text></g>
 
   <!-- Shift row: 13 keys -->
-  <g class="key wide" transform="translate(24 250)"><rect width="88" height="42"/><text class="base" x="44" y="26">Shift</text></g>
-  <g class="key" transform="translate(118 250)"><rect width="48" height="42"/><text class="base" x="24" y="26">Z</text></g>
-  <g class="key" transform="translate(172 250)"><rect width="48" height="42"/><text class="base" x="24" y="26">X</text></g>
-  <g class="key" transform="translate(226 250)"><rect width="48" height="42"/><text class="base" x="24" y="26">C</text><text class="fn" x="24" y="37">Mouse 3</text></g>
-  <g class="key" transform="translate(280 250)"><rect width="48" height="42"/><text class="base" x="24" y="26">V</text></g>
-  <g class="key" transform="translate(334 250)"><rect width="48" height="42"/><text class="base" x="24" y="26">B</text></g>
-  <g class="key" transform="translate(388 250)"><rect width="48" height="42"/><text class="base" x="24" y="26">N</text></g>
-  <g class="key" transform="translate(442 250)"><rect width="48" height="42"/><text class="base" x="24" y="26">M</text></g>
-  <g class="key" transform="translate(496 250)"><rect width="48" height="42"/><text class="base" x="24" y="26">,</text></g>
-  <g class="key" transform="translate(550 250)"><rect width="48" height="42"/><text class="base" x="24" y="26">.</text></g>
-  <g class="key" transform="translate(604 250)"><rect width="48" height="42"/><text class="base" x="24" y="18">/</text><text class="fn" x="24" y="33">Search</text></g>
-  <g class="key wide" transform="translate(658 250)"><rect width="86" height="42"/><text class="base" x="43" y="26">Shift</text></g>
-  <g class="key" transform="translate(886 250)"><rect width="48" height="42"/><text class="base" x="24" y="18">Up</text><text class="fn" x="24" y="33">Vol+</text></g>
+  <g class="key wide" transform="translate(24 250)"><rect width="126" height="42"/><text class="base" x="44" y="26">Shift</text></g>
+  <g class="key" transform="translate(156 250)"><rect width="48" height="42"/><text class="base" x="24" y="26">Z</text></g>
+  <g class="key" transform="translate(210 250)"><rect width="48" height="42"/><text class="base" x="24" y="26">X</text></g>
+  <g class="key" transform="translate(264 250)"><rect width="48" height="42"/><text class="base" x="24" y="26">C</text><text class="fn" x="24" y="37">Mouse 3</text></g>
+  <g class="key" transform="translate(318 250)"><rect width="48" height="42"/><text class="base" x="24" y="26">V</text></g>
+  <g class="key" transform="translate(372 250)"><rect width="48" height="42"/><text class="base" x="24" y="26">B</text></g>
+  <g class="key" transform="translate(426 250)"><rect width="48" height="42"/><text class="base" x="24" y="26">N</text></g>
+  <g class="key" transform="translate(480 250)"><rect width="48" height="42"/><text class="base" x="24" y="26">M</text></g>
+  <g class="key" transform="translate(534 250)"><rect width="48" height="42"/><text class="base" x="24" y="26">,</text></g>
+  <g class="key" transform="translate(588 250)"><rect width="48" height="42"/><text class="base" x="24" y="26">.</text></g>
+  <g class="key" transform="translate(642 250)"><rect width="48" height="42"/><text class="base" x="24" y="18">/</text><text class="fn" x="24" y="33">Search</text></g>
+  <g class="key wide" transform="translate(696 250)"><rect width="126" height="42"/><text class="base" x="43" y="26">Shift</text></g>
+  <g class="key" transform="translate(896 250)"><rect width="48" height="42"/><text class="base" x="24" y="18">Up</text><text class="fn" x="24" y="33">Vol+</text></g>
 
   <!-- Bottom row: 11 keys -->
   <g class="key wide" transform="translate(24 303)"><rect width="58" height="42"/><text class="base" x="29" y="26">Ctrl</text></g>
-  <g class="key wide" transform="translate(88 303)"><rect width="58" height="42"/><text class="base" x="29" y="18">Super</text><text class="fn" x="29" y="33">Lock Win</text></g>
+  <g class="key wide" transform="translate(88 303)"><rect width="58" height="42"/><text class="base" x="29" y="18">Win</text><text class="fn" x="29" y="33">Lock Win</text></g>
   <g class="key wide" transform="translate(152 303)"><rect width="58" height="42"/><text class="base" x="29" y="26">Alt</text></g>
   <g class="key super wide" transform="translate(216 303)"><rect width="326" height="42"/><text class="base" x="163" y="18">Space</text><text class="fn" x="163" y="33">Mute Toggle Microphone</text></g>
-  <g class="key wide" transform="translate(548 303)"><rect width="58" height="42"/><text class="base" x="29" y="26">Alt</text></g>
-  <g class="key wide" transform="translate(612 303)"><rect width="58" height="42"/><text class="base" x="29" y="26">App</text></g>
-  <g class="key layer wide" transform="translate(676 303)"><rect width="58" height="42"/><text class="base" x="29" y="26">Layer</text></g>
-  <g class="key wide" transform="translate(740 303)"><rect width="58" height="42"/><text class="base" x="29" y="26">Ctrl</text></g>
-  <g class="key" transform="translate(832 303)"><rect width="48" height="42"/><text class="base" x="24" y="26">Left</text><text class="fn" x="24" y="37">Prev</text></g>
-  <g class="key" transform="translate(886 303)"><rect width="48" height="42"/><text class="base" x="24" y="18">Down</text><text class="fn" x="24" y="33">Vol-</text></g>
-  <g class="key" transform="translate(940 303)"><rect width="48" height="42"/><text class="base" x="24" y="26">Right</text><text class="fn" x="24" y="37">Next</text></g>
+  <g class="key wide" transform="translate(548 303)"><rect width="82" height="42"/><text class="base" x="29" y="26">Alt</text></g>
+  <g class="key wide" transform="translate(636 303)"><rect width="58" height="42"/><text class="base" x="29" y="26">App</text></g>
+  <g class="key layer wide" transform="translate(700 303)"><rect width="58" height="42"/><text class="base" x="29" y="26">Super</text></g>
+  <g class="key wide" transform="translate(764 303)"><rect width="58" height="42"/><text class="base" x="29" y="26">Ctrl</text></g>
+  <g class="key" transform="translate(842 303)"><rect width="48" height="42"/><text class="base" x="24" y="26">Left</text><text class="fn" x="24" y="37">Prev</text></g>
+  <g class="key" transform="translate(896 303)"><rect width="48" height="42"/><text class="base" x="24" y="18">Down</text><text class="fn" x="24" y="33">Vol-</text></g>
+  <g class="key" transform="translate(950 303)"><rect width="48" height="42"/><text class="base" x="24" y="26">Right</text><text class="fn" x="24" y="37">Next</text></g>
 
   <rect x="24" y="358" width="14" height="14" rx="3" fill="#6d2848" stroke="#f08ab5"/>
   <rect x="24" y="358" width="14" height="14" rx="3" fill="#234865" stroke="#75c9ff"/>
