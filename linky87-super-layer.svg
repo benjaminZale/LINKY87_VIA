@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 390" role="img" aria-labelledby="title description">
-  <title id="title">Linky87 87-key VIA layout with Layer 1 functions</title>
+  <title id="title">Linky87 87-key VIA layout with Super Key  Mappings</title>
   <desc id="description">An 87-key ANSI TKL keyboard diagram. Small labels show Layer 1 functions. Pink keys use Super shortcuts; blue is the layer key.</desc>
   <style>
     text { font-family: Arial, Helvetica, sans-serif; text-anchor: middle; }
@@ -12,7 +12,7 @@
     .legend { fill: gold; font-weight="bolder"; font-size: 20px; }
   </style>
   <rect x="0" y="0" width="1080" height="390" rx="12" fill="#111722"/>
-  <text class="legend" x="540" y="22" fill="#e9edf4" font-size="15" font-weight="700">LINKY87 · 87-KEY VIA LAYOUT · LAYER 1 FUNCTIONS</text>
+  <text class="legend" x="540" y="22" fill="#e9edf4" font-size="15" font-weight="700">LINKY87 · 87-KEY VIA LAYOUT · SUPER KEY MAPPINGS</text>
 
   <!-- Function row: 16 keys -->
   <g class="key" transform="translate(24 38)"><rect width="48" height="42"/><text class="base" x="24" y="19">Esc</text><text class="fn" x="24" y="33">Sleep</text></g>
